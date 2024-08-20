@@ -1,0 +1,44 @@
+/* Write your code here. */
+.bg {
+  padding-top: 10%;
+}
+.head {
+  text-align: center;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  height: 50vh;
+  align-items: flex-end;
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+
+.small {
+  display: flex;
+  height: 100px;
+  width: 100px;
+  background-color: #fbbf24;
+  justify-content: center;
+  align-items: center;
+}
+
+.medium {
+  display: flex;
+  height: 200px;
+  width: 200px;
+  background-color: #38bdf8;
+  justify-content: center;
+  align-items: center;
+}
+
+.large {
+  display: flex;
+  height: 300px;
+  width: 300px;
+  background-color: #ec4899;
+  justify-content: center;
+  align-items: center;
+}
